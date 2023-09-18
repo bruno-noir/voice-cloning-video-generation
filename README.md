@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Welcome to our Voice Cloning and Realistic Video Generation project. This project was developed as part of the Techolution AI Done Right Hackathon, aiming to create near-real-time digital twins using advanced voice cloning and video generation techniques. Our solution combines cutting-edge AI technologies to produce lifelike digital replicas of individuals, complete with their voices, expressions, and speech.
+Welcome to our Voice Cloning and Realistic Video Generation project. This project was developed to create near-real-time digital twins using advanced voice cloning and video generation techniques. The solution combines cutting-edge AI technologies to produce lifelike digital replicas of individuals, complete with their voices, expressions, and speech.
 
 ## Problem Statement
 
